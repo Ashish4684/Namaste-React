@@ -1,1 +1,1 @@
-namaste react lecture and practice code
+namaste react lecture by akshay saini and practice code
